@@ -10,6 +10,11 @@
     "noPropertyAccessFromIndexSignature": true,
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
+    "paths": {
+      "module-federation-config-lib": [
+        "dist/module-federation-config-lib"
+      ]
+    },
     "sourceMap": true,
     "declaration": false,
     "downlevelIteration": true,
